@@ -86,13 +86,129 @@ At the meta-level there is a fundamental distinction between the view that what 
 
 What is the relationship between one's meta view on the personal responsibility/structural cause dichotomy and the why and how questions.
 
-| &nbsp; | WHy Act? | How to act? |
-| --- | --- | --- |
-| &nbsp; | Social Costs | Welfare Effect | Carrot | Stick | Both |
-| CAUSE | &nbsp; |
-| Personal | X | &nbsp; | X | X |
-| Structural | &nbsp; | X | X | &nbsp; |
-| Both | &nbsp; | X | &nbsp; | X 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ 
+{{< thclose >}}
+{{< thopen >}}
+WHy Act?
+{{< thclose >}}
+{{< thopen >}}
+How to act?
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Social Costs
+{{< tdclose >}}
+{{< tdopen >}}
+Welfare Effect
+{{< tdclose >}}
+{{< tdopen >}}
+Carrot
+{{< tdclose >}}
+{{< tdopen >}}
+Stick
+{{< tdclose >}}
+{{< tdopen >}}
+Both
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+CAUSE
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Personal
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Structural
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Both
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 How (if at all) are these categories and frames useful in the discussion of _flaws_ in execution? (Here the discussion focuses specifically on how the DSS, DPW, and EOCD roles were established for families in the shelters. I.e. that DSS would provide treatment for people who were clearly at risk of not making it in housing.)
 
